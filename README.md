@@ -10,6 +10,8 @@ python letter_detection.py
 
 ## User Interface:
 
+![alt screenshot](https://preview.ibb.co/fZHkO0/image.png)
+
 **Load Button**: Training file is loading into view<br/>
 **Save Button**: Saving file is saving to file. (**Attention: Files first character must be target letter**) <br/>
 **Clear Button**: Clears the view<br/>
