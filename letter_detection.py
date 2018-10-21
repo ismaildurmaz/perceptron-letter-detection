@@ -1,7 +1,7 @@
 import numpy as np
 import math
 import tkinter.filedialog as fdialog
-import tkinter.messagebox
+import tkinter.messagebox as messagebox
 import os
 
 # INITIAL DEFINITIONS
